@@ -1,0 +1,174 @@
+body {
+	background-image: url("background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: black;
+
+	
+}
+#navigation {
+	list-style-type: none;
+	background-color: #858585;
+	padding: 10px;
+	width: 430px;
+	font-size: 100%;
+	font-family: Arial;
+	word-spacing: 30px;
+	margin: 10px auto 15px auto;
+	text-align: center;
+	box-shadow: 8px 8px 12px;
+	
+
+	
+}
+li.hli {
+	display: inline;
+}
+
+a:link {
+	color: #0FF4FF;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #0FF4FF;
+	text-decoration: none;
+}
+
+a:active {
+	color: #0FF4FF;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #33FFBE;
+}
+
+#welcome {
+	text-align: center;
+	font-family: Impact;
+	color: #00A651;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-shadow:  8px 8px 8px 12px black;
+	background-color: white
+}
+headertext {
+	background-color: white;
+	width: 250px;
+	text-align:center;
+	
+}
+#main {
+	height: 300px;
+	padding: 15px;
+	width: 940px;
+	margin: 10px auto 10px auto;
+	margin-bottom: 5px;
+	background-color: white;
+	font-family: Verdana;
+	box-shadow: 8px 8px 12px black
+}
+#mainassimil {
+	height: 300px;
+	padding: 15px;
+	width: 940px;
+	margin: 10px auto 10px auto;
+	margin-bottom: 5px;
+	background-color: white;
+	font-family: Verdana;
+	box-shadow: 8px 8px 12px black
+	}
+h3.purpose, h3.title {
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: -5px;
+	text-decoration: underline;
+}
+
+figure {
+	text-align: center;
+	margin: 0px auto 0px auto;
+	padding: 0px
+}
+
+button {
+	float:left;
+	font-size: 24px;
+	font-family: Arial;
+	color: black;
+	padding: 100px;
+	width: 30%;
+	border-radius: 12px;
+	margin-right: 10px;
+	text-align: center;
+	position: relative;
+
+}
+
+button#Money {
+	background-image: url("money.jpg");
+	float: left;
+	text-align: center;
+	margin-left: 100px
+	
+}
+
+button#Entrepreneurship {
+	float: left;
+}
+
+button#Persuation {
+	float: left;
+}
+
+#aboutheader{
+	text-align: center;
+	font-size: 125%;
+	text-decoration: underline;
+	text-decoration: bold;
+}
+ul.aboutassimil{
+	line-height: 25px
+}
+
+#assimilbody {
+	
+	background-color: white;
+	padding: 20px;
+	width: 500px;
+	margin: 20px auto 20px auto;
+	border-radius: 5px;
+	
+}
+#lessonstitle {
+	text-align: center;
+}
+
+#lessons {
+	text-align: center;
+}
+dt.defterm {
+	font-size: 125%;
+	text-decoration: underline;
+	text-decoration: bold;
+}
+
+#player {
+	background-color: white;
+	padding: 10px;
+	margin: 10px auto 10px auto;
+	text-align: center;
+	width:300px;
+	border-radius: 10px;
+}
+#pdfviewer {
+	text-align:center;
+}
+.align-center {
+	padding:15px;
+	background-color: white;
+	margin-bottom: 15px;
+}
