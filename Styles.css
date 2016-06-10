@@ -157,15 +157,18 @@ dt.defterm {
 }
 
 #player {
-	background-color: white;
+	background-color: grey;
 	padding: 10px;
 	margin: 10px auto 10px auto;
+	margin-left: 40%;
 	text-align: center;
 	width:300px;
 	border-radius: 10px;
+	position: fixed
 }
 #pdfviewer {
 	text-align:center;
+	margin-top: 100px;
 }
 .align-center {
 	padding:15px;
